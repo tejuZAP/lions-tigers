@@ -1,4 +1,4 @@
-Lions and Tigers and Bears
+# Lions-Tigers
 
 Teju Kolawole
 
